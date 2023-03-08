@@ -1,8 +1,8 @@
 $printers = @(
-    'Contoso-General'
-    'Contoso-HP'
-    'Contoso-MFP'
+    'RICOH IM C3000 - 2. etg'
+    'RICOH MP C3004 - 3/4. etg'
 )
+
 
 #Check every printer if it's installed
 $numberofprintersfound = 0
